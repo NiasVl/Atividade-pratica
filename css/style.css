@@ -26,6 +26,7 @@ table, th, td {
     padding: 8px;
     text-align: center;
     background-color: aqua;
+    opacity: 0.7;
 }
 
 th{
