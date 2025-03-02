@@ -1,0 +1,35 @@
+
+body{
+    background-image: url("../img/fundo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+h1{
+    text-align: center;
+}
+
+hr{
+    width: 70%;
+    background-color: black;
+    height: 5px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    opacity: 0.8;
+    margin-bottom: 20px;
+}
+table, th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    background-color: aqua;
+}
+
+th{
+    background-color: black;
+    color: white;
+    border: solid white 1px;
+}
